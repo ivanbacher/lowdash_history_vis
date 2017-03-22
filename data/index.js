@@ -26,7 +26,7 @@ step_1().then( (version_numbers)=> {
 
                 }
 
-                var file = './files/underscore_' + version + '.js';
+                var file = '../vis/data/underscore_' + version + '.js';
 
                 try { 
                     fs.unlinkSync('file');
