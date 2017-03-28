@@ -1,6 +1,7 @@
 {
   "jspm": {
     "dependencies": {
+      "async": "npm:async@^2.1.5",
       "d3": "npm:d3@^4.7.3",
       "escope": "npm:escope@^3.6.0",
       "esprima": "npm:esprima@^3.1.3"
